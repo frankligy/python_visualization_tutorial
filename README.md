@@ -5,4 +5,5 @@ I am planning to share how to make publication-quality figures in python, I will
 
 1. Tutorial I (Understanding Fig and Ax object) 
     * link: https://towardsdatascience.com/making-publication-quality-figures-in-python-part-i-fig-and-axes-d86c3903ad9b
-2. stay tuned
+2. Turorial II (Line plot, colors and legends)
+    * Link: https://frankligy.medium.com/making-publication-quality-figures-in-python-part-ii-line-plot-legends-colors-4430a5891706
