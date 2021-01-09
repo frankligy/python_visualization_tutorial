@@ -9,3 +9,5 @@ I am planning to share how to make publication-quality figures in python, I will
     * Link: https://frankligy.medium.com/making-publication-quality-figures-in-python-part-ii-line-plot-legends-colors-4430a5891706
 3. Tutorial III (boxplot, scatter plot, heatmap, colormap, barplot, histogram)
     * Link: https://frankligy.medium.com/making-publication-quality-figures-in-python-part-iii-box-plot-bar-plot-scatter-plot-407fa457449
+4. Tutorial IV (Violin plot, dendrogram)
+    * Link: https://towardsdatascience.com/making-publication-quality-figures-in-python-part-iv-violin-plot-and-dendrogram-ed0bb8b23ddd
