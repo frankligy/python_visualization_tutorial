@@ -13,3 +13,7 @@ I am planning to share how to make publication-quality figures in python, I will
     * Link: https://towardsdatascience.com/making-publication-quality-figures-in-python-part-iv-violin-plot-and-dendrogram-ed0bb8b23ddd
 5. Tutorial V (Seaborn):
     * Link: https://frankligy.medium.com/all-you-need-to-know-about-seaborn-6678a02f31ff
+
+
+## Do you want to know some tricks of using matplotlib?
+1. gridspec
