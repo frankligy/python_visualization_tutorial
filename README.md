@@ -16,4 +16,7 @@ I am planning to share how to make publication-quality figures in python, I will
 
 
 ## Do you want to know some tricks of using matplotlib?
-1. gridspec
+1. [gridspec](https://github.com/frankligy/python_visualization_tutorial/blob/main/examples/gridspec.ipynb)
+2. [how to move yaxis ticks to the right spines](https://github.com/frankligy/python_visualization_tutorial/blob/main/examples/yaxis_tick_on_right.ipynb)
+3. [how to extract certain number of colors?](https://github.com/frankligy/python_visualization_tutorial/blob/main/examples/cmap.ipynb)
+4. [legend,flexibly adjust it](https://github.com/frankligy/python_visualization_tutorial/blob/main/examples/legend.ipynb)
