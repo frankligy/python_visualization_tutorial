@@ -20,4 +20,5 @@ I am planning to share how to make publication-quality figures in python, I will
 2. [how to move yaxis ticks to the right spines](https://github.com/frankligy/python_visualization_tutorial/blob/main/examples/yaxis_tick_on_right.ipynb)
 3. [how to extract certain number of colors?](https://github.com/frankligy/python_visualization_tutorial/blob/main/examples/cmap.ipynb)
 4. [legend,flexibly adjust it](https://github.com/frankligy/python_visualization_tutorial/blob/main/examples/legend.ipynb)
-5. [transforming, extend the ax if needed](https://github.com/frankligy/python_visualization_tutorial/blob/main/examples/extend_ax.ipynb)
+5. [transformation, bbox](https://github.com/frankligy/python_visualization_tutorial/blob/main/examples/extend_ax.ipynb)
+6. [stacked legend](https://github.com/frankligy/python_visualization_tutorial/blob/main/examples/stacked_legends.ipynb)
