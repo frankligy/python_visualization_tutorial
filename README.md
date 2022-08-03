@@ -21,3 +21,5 @@ I am planning to share how to make publication-quality figures in python, I will
 4. [legend,flexibly adjust it](https://github.com/frankligy/python_visualization_tutorial/blob/main/examples/legend.ipynb)
 5. [transformation, bbox](https://github.com/frankligy/python_visualization_tutorial/blob/main/examples/extend_ax.ipynb)
 6. [stacked legend](https://github.com/frankligy/python_visualization_tutorial/blob/main/examples/stacked_legends.ipynb)
+7. [markersize and difference between unit "unit" and "pixel"](https://github.com/frankligy/python_visualization_tutorial/blob/main/examples/markersize.ipynb) 
+8. stay tuned
