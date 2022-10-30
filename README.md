@@ -12,7 +12,7 @@ I am planning to share how to make publication-quality figures in python, I will
 
 ## Phase II: Advanced tutorials
 1. [Plotly, interactive network](https://frankligy.medium.com/plotly-meets-scientific-visualization-8c2074f032cb)
-2. [Sankey plot strategies](https://frankligy.medium.com/the-essence-of-drawing-sankey-plot-491fb2cb234)
+2. [Sankey plot strategies (Matplotlib Path and Patch)](https://frankligy.medium.com/the-essence-of-drawing-sankey-plot-491fb2cb234)
 
 
 ## Do you want to know some tricks?
